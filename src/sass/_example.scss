@@ -1,0 +1,13 @@
+.timer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+.field {
+  display: grid;
+  grid-template-columns: 65px;
+  justify-items: center;
+  align-items: center;
+}
